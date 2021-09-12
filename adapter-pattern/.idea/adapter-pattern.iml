@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="bridge-pattern" />
+    <orderEntry type="module" module-name="composite-pattern" />
+    <orderEntry type="module" module-name="template-method" />
+    <orderEntry type="module" module-name="facade-pattern" />
+    <orderEntry type="module" module-name="observer-pattern" />
+    <orderEntry type="module" module-name="stratergy-pattern" />
+    <orderEntry type="module" module-name="factory-method-pattern" />
+    <orderEntry type="module" module-name="abstract-factory-method-pattern" />
+    <orderEntry type="module" module-name="singleton-pattern" />
+    <orderEntry type="module" module-name="iterator-pattern" />
+    <orderEntry type="module" module-name="proxy-pattern" />
+    <orderEntry type="module" module-name="decorator-pattern" />
+    <orderEntry type="module" module-name="command-pattern" />
+    <orderEntry type="module" module-name="state-pattern" />
+    <orderEntry type="module" module-name="dao-pattern" />
+  </component>
+</module>

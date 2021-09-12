@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../abstract-factory-method-pattern/.idea/abstract-factory-method-pattern.iml" filepath="$PROJECT_DIR$/../abstract-factory-method-pattern/.idea/abstract-factory-method-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/adapter-pattern.iml" filepath="$PROJECT_DIR$/.idea/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bridge-pattern/.idea/bridge-pattern.iml" filepath="$PROJECT_DIR$/../bridge-pattern/.idea/bridge-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../command-pattern/.idea/command-pattern.iml" filepath="$PROJECT_DIR$/../command-pattern/.idea/command-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../composite-pattern/.idea/composite-pattern.iml" filepath="$PROJECT_DIR$/../composite-pattern/.idea/composite-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dao-pattern/.idea/dao-pattern.iml" filepath="$PROJECT_DIR$/../dao-pattern/.idea/dao-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../decorator-pattern/.idea/decorator-pattern.iml" filepath="$PROJECT_DIR$/../decorator-pattern/.idea/decorator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../facade-pattern/.idea/facade-pattern.iml" filepath="$PROJECT_DIR$/../facade-pattern/.idea/facade-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../factory-method-pattern/.idea/factory-method-pattern.iml" filepath="$PROJECT_DIR$/../factory-method-pattern/.idea/factory-method-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iterator-pattern/.idea/iterator-pattern.iml" filepath="$PROJECT_DIR$/../iterator-pattern/.idea/iterator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../observer-pattern/.idea/observer-pattern.iml" filepath="$PROJECT_DIR$/../observer-pattern/.idea/observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proxy-pattern/.idea/proxy-pattern.iml" filepath="$PROJECT_DIR$/../proxy-pattern/.idea/proxy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../singleton-pattern/.idea/singleton-pattern.iml" filepath="$PROJECT_DIR$/../singleton-pattern/.idea/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../state-pattern/.idea/state-pattern.iml" filepath="$PROJECT_DIR$/../state-pattern/.idea/state-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stratergy-pattern/.idea/stratergy-pattern.iml" filepath="$PROJECT_DIR$/../stratergy-pattern/.idea/stratergy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../template-method/.idea/template-method.iml" filepath="$PROJECT_DIR$/../template-method/.idea/template-method.iml" />
+    </modules>
+  </component>
+</project>
